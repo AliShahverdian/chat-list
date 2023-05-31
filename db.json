@@ -1,0 +1,149 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ali@gmail.com",
+      "mobile": "7881305232",
+      "name": "Ali",
+      "surname": "Shahverdian",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1RwYp9cbBWK9-ufzpceFBDJdiByor1Y_iHQ&usqp=CAU",
+      "chats": [
+        {
+          "id": 1,
+          "contactName": "Mitra",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKYZ06dLHWPoo4JqBY2jIstouDIXp1wHKbsg&usqp=CAU",
+          "messages": [
+            {
+              "sender": "Ali",
+              "content": "Hey Alice, how are you?",
+              "timestamp": "2023-05-10T10:00:00Z"
+            },
+            {
+              "sender": "Mitra",
+              "content": "I'm doing great, thanks!",
+              "timestamp": "2023-05-10T10:02:00Z"
+            },
+            {
+              "sender": "Mitra",
+              "content": "How about you?",
+              "timestamp": "2023-05-10T10:03:30Z"
+            },
+            {
+              "sender": "Ali",
+              "content": "I'm good too!",
+              "timestamp": "2023-05-10T10:05:15Z"
+            },
+            {
+              "sender": "Ali",
+              "content": "what's up?",
+              "timestamp": "2023-05-31T19:22:51.154Z"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "contactName": "Elahe",
+          "image": "bob.jpg",
+          "messages": [
+            {
+              "sender": "Ali",
+              "content": "Hi Bob, did you watch the game last night?",
+              "timestamp": "2023-05-09T20:30:00Z"
+            },
+            {
+              "sender": "Elahe",
+              "content": "Yes, it was an amazing match!",
+              "timestamp": "2023-05-09T20:32:00Z"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "contactName": "Maman",
+          "image": "bob.jpg",
+          "messages": [
+            {
+              "sender": "Ali",
+              "content": "Hi Bob, did you watch the game last night?",
+              "timestamp": "2023-05-09T20:30:00Z"
+            },
+            {
+              "sender": "Maman",
+              "content": "Yes, it was an amazing match!",
+              "timestamp": "2023-05-09T20:32:00Z"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "contactName": "Bob",
+          "image": "bob.jpg",
+          "messages": [
+            {
+              "sender": "Ali",
+              "content": "Hi Bob, did you watch the game last night?",
+              "timestamp": "2023-05-09T20:30:00Z"
+            },
+            {
+              "sender": "Bob",
+              "content": "Yes, it was an amazing match!",
+              "timestamp": "2023-05-09T20:32:00Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "email": "user2@example.com",
+      "mobile": "9876543210",
+      "name": "Jane",
+      "surname": "Smith",
+      "avatar": "jane_avatar.jpg",
+      "chats": [
+        {
+          "contactName": "David",
+          "image": "david.jpg",
+          "messages": [
+            {
+              "sender": "David",
+              "content": "Hi Jane, how's it going?",
+              "timestamp": "2023-05-10T15:00:00Z"
+            },
+            {
+              "sender": "Jane",
+              "content": "I'm good, thanks! Just working on a project.",
+              "timestamp": "2023-05-10T15:02:00Z"
+            },
+            {
+              "sender": "Jane",
+              "content": "That sounds interesting. Tell me more!",
+              "timestamp": "2023-05-10T15:05:30Z"
+            },
+            {
+              "sender": "David",
+              "content": "Sure, I'll share the details with you.",
+              "timestamp": "2023-05-10T15:10:00Z"
+            }
+          ]
+        },
+        {
+          "contactName": "Sarah",
+          "image": "sarah.jpg",
+          "messages": [
+            {
+              "sender": "Sarah",
+              "content": "Hey Jane, are you free this weekend?",
+              "timestamp": "2023-05-09T18:00:00Z"
+            },
+            {
+              "sender": "Jane",
+              "content": "Yes, I don't have any plans. Why?",
+              "timestamp": "2023-05-09T18:02:00Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
